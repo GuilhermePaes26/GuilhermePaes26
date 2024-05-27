@@ -8,7 +8,7 @@ Olá! Sou Guilherme Paes Nascimento, um estudante dedicado e entusiasta da tecno
 
 - 🎓 **Estudante**: Apaixonado por aprender e sempre em busca de novos conhecimentos e desafios.
 - 💻 **Desenvolvedor Full Stack**: Experiência em desenvolvimento tanto no front-end quanto no back-end, criando soluções completas e eficientes.
-- 📚 **Apaixonado por Leitura**: Adoro ler! Desde livros de autoajuda até livros voltados ao empreendedorismo
+- 📚 **Apaixonado por Leitura**: Adoro ler! Desde livros de autoajuda até livros voltados ao empreendedorismo.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
